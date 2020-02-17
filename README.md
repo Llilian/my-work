@@ -1,9 +1,13 @@
-My-work
-Includes projects i have done while in moringa
-By**Lilian Njambi
-This project combines all of the work i have been doing for the past one week
-click the links above and it will redirect you to my-work
-license
+# My-work
+
+Includes projects I have done while in moringa
+
+### By
+*Lilian Njambi*
+
+This project combines all of the work I have been doing for the past week
+Click the links above and it will redirect you to my-work
+### LICENSE
 MIT LICENSE copyright (C)2020 **Lilian Njambi Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
